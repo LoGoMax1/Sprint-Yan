@@ -8,7 +8,8 @@ Esta aplicação realiza reconhecimento e identificação facial do usuário uti
 - OpenCV (cv2)
 - Haar Cascade Classifier
 
-## Video Demonstrativo - https://www.youtube.com/watch?v=IulTRE_GrRY
+## Video Demonstrativo 
+- https://www.youtube.com/watch?v=IulTRE_GrRY
 
 ## Dependências
 ```
